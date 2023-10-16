@@ -1,4 +1,6 @@
+<!--
 ![logo](https://github.com/rupakweb/rupakweb/blob/main/rlogo.png)
+-->
 <h1 align="center">Hi 👋, I'm Rupak Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
