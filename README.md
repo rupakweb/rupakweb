@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupakweb&label=Profile%20views&color=0e75b6&style=flat" alt="rupakweb" /> </p>
 
-- 🔭 I’m currently working on [Aryson Technologies](https://www.arysontechnologies.com/)
+- 🔭 I’m currently working on [UniConverge Technologies](https://www.uniconvergetech.in/)
 
 - 🌱 I’m currently learning **Mongodb**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rupakrajput4u@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FxolcDe4vfb-R7Gz9a0s5rx3b__D_NeR/view?usp=sharing](https://drive.google.com/file/d/1FxolcDe4vfb-R7Gz9a0s5rx3b__D_NeR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZxmxN1e7cVE7lcCvI6bfWkohpaZtkOR0/view](https://drive.google.com/file/d/1ZxmxN1e7cVE7lcCvI6bfWkohpaZtkOR0/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
